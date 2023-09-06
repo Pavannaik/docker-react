@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          <h1>This is Changing dynamically</h1>
+          <h1>This is Feature branchy</h1>
         </p>
         <a
           className="App-link"
